@@ -1,0 +1,13 @@
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open DLL.vbprojResolveAssemblyReference.cache
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open_DLL.Form2.resources
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open_DLL.Resources.resources
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open DLL.vbproj.GenerateResource.Cache
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open DLL.xml
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\bin\Debug\Open DLL.exe
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\bin\Debug\Open DLL.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\bin\Debug\Open DLL.xml
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\bin\Debug\Open.dll
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\bin\Debug\Open.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\bin\Debug\Open.xml
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open DLL.exe
+c:\users\leandro\documents\visual studio 2015\Projects\Open DLL\Open DLL\obj\Debug\Open DLL.pdb
